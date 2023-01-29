@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+}
+#carouselExampleControls{
+    margin-top: 5px;
+}
+.sum{
+    background-color: white;
+    height: 100px;
+    width: 30%;
+    box-shadow: 2px 4px 5px gray;
+}
+.among{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    }
+.success{
+   color:burlywood;
+}
+.bobby{
+    margin: auto;
+}
